@@ -1,3 +1,5 @@
 # tk-plcty-challenge
 
-Ty's automation test framework for the Benefit's Dashboard
+Ty's automation test framework for the Benefit's Dashboard 
+
+To run automation: 
